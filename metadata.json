@@ -1,0 +1,6 @@
+{
+  "name": "AI HealthGuide – Smart Healthcare Assistant",
+  "description": "Accessible health education assistant with a Gemini-powered health information chatbot, structured symptom guidance, doctor visit preparation checklist, and emergency warning reference.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
